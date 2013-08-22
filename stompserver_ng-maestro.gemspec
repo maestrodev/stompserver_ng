@@ -4,7 +4,7 @@
 # -*- encoding: utf-8 -*-
 
 Gem::Specification.new do |s|
-  s.name = %q{stompserver_ng}
+  s.name = %q{stompserver_ng-maestro}
   s.version = "1.0.6"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
@@ -63,7 +63,7 @@ Gem::Specification.new do |s|
     "lib/stomp_server_ng/test_server.rb",
     "lib/stomp_server_ng/topic_manager.rb",
     "setup.rb",
-    "stompserver_ng.gemspec",
+    "stompserver_ng-maestro.gemspec",
     "test/devserver/props.yaml",
     "test/devserver/runserver.sh",
     "test/devserver/stompserver_ng.dbm.conf",
